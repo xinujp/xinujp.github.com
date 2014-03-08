@@ -63,3 +63,12 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/* akira added */
+table, td, th {
+border: 1px #888888 solid;
+}
+
+th {
+  background: #cccccc;
+}
