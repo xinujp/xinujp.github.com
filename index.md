@@ -23,7 +23,7 @@ blog 的な使い方が主なので、なんでもありです。
 ### ついでに markdown + Jekyll-Bootstrap のテスト
 このサイトは Jekyll-Bootstrap で作成しています。  
 Jekyll-Bootstrap は初めて使うので、当面、そのテストも行います。  
-また、更についでに、git でのサイト更新もやってみようかと。
+また、更についでに、github にも載せようかと。
 
 ### 最近の投稿
 
